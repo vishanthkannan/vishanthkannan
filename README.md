@@ -1,25 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Vishanthkannan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Vishanthkannan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=vishanthkannan">
-    <img src="https://komarev.com/ghpvc/?username=vishanthkannan&label=Profile%20views&color=00FFFF&style=flat-square" alt="vishanthkannan's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=vishanthkannan&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" />
 
 <div align="center">
 
 # About Me
 
-Passionate Full-Stack Developer  
-Building real-world projects with React, Node.js & MongoDB  
-Interested in Data Analysis & Smart Systems  
-Preparing for Software Developer Placements  
-Learning DSA, Java, Python  
-Always exploring new technologies and ideas  
-Love Editing, UI Design & Creative Development  
-Working on Full Stack Projects  
+• Passionate Full-Stack Developer  
+• Building projects with React, Node.js & MongoDB  
+• Interested in AI, Data Analysis & Smart Systems  
+• Learning DSA, Java & Python  
+• Love UI Design & Creative Development  
 
 </div>
 
@@ -29,22 +26,20 @@ Working on Full Stack Projects
 
 # Focus Areas
 
-Full Stack Development • Data Structures & Algorithms • Java Development  
-
-React & Modern Web Apps • Backend Development • MongoDB & Databases  
-
-AI-Powered Applications • Problem Solving  
+• Full Stack Development  
+• React & Modern Web Apps  
+• Backend Development  
+• MongoDB & Databases  
+• Problem Solving & DSA  
 
 </div>
 
 ---
 
-# GitHub Stats & Trophies
+# GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/vishanthkannan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishanthkannan&show_icons=true&theme=transparent&hide_border=true" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishanthkannan&show_icons=true&theme=transparent&hide_border=true" />
 
   <img height="180em" src="https://streak-stats.demolab.com?user=vishanthkannan&theme=transparent&hide_border=true" />
 </p>
@@ -54,7 +49,7 @@ AI-Powered Applications • Problem Solving
 </p>
 
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-city.svg" width="100%" />
 </div>
 
 ---
@@ -64,93 +59,73 @@ AI-Powered Applications • Problem Solving
 ## Programming Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
 </p>
 
 ## Frontend
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
   <img width="12" />
 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="45" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" />
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
   <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="45" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" />
 </p>
 
 ## Backend
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="45" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" />
   <img width="12" />
 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="45" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" />
   <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" height="45" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=flask" height="45" />
 </p>
 
 ## Database
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
   <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
-</p>
-
-## DevOps & Cloud
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="45" alt="AWS" />
-  <img width="12" />
-
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="45" alt="Google Cloud" />
-  <img width="12" />
-
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="45" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
 </p>
 
 ## Tools
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
   <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="45" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
   <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" />
   <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" height="45" alt="Vite" />
-</p>
-
----
-
-# Top Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishanthkannan&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" />
 </p>
 
 ---
@@ -159,16 +134,16 @@ AI-Powered Applications • Problem Solving
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishanthkannan/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" height="45" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
   <img width="12" />
 
   <a href="mailto:vishanthkannan777@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" height="45" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
