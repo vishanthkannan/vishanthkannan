@@ -8,43 +8,49 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
-<h2 align="center">About Me</h2>
+<div align="center">
 
-<p align="center">
-  Passionate Full-Stack Developer <br>
-  Building real-world projects with React, Node.js & MongoDB <br>
-  Interested in Data Analysis & Smart Systems <br>
-  Preparing for Software Developer Placements <br>
-  Learning DSA, Java, Python <br>
-  Always exploring new technologies and ideas <br>
-  Love Editing, UI Design & Creative Development <br>
-  Working on Full Stack Projects
-</p>
+# About Me
+
+Passionate Full-Stack Developer  
+Building real-world projects with React, Node.js & MongoDB  
+Interested in Data Analysis & Smart Systems  
+Preparing for Software Developer Placements  
+Learning DSA, Java, Python  
+Always exploring new technologies and ideas  
+Love Editing, UI Design & Creative Development  
+Working on Full Stack Projects  
+
+</div>
 
 <br>
 
-<h2 align="center">Focus Areas</h2>
+<div align="center">
 
-<p align="center">
-  Full Stack Development • Data Structures & Algorithms • Java Development <br><br>
-  React & Modern Web Apps • Backend Development • MongoDB & Databases <br><br>
-  AI-Powered Applications • Problem Solving
-</p>
+# Focus Areas
+
+Full Stack Development • Data Structures & Algorithms • Java Development  
+
+React & Modern Web Apps • Backend Development • MongoDB & Databases  
+
+AI-Powered Applications • Problem Solving  
+
+</div>
 
 ---
 
-## 📊 GitHub Stats & Trophies
+# GitHub Stats & Trophies
 
 <p align="center">
   <a href="https://github.com/vishanthkannan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishanthkannan&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="vishanthkannan's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishanthkannan&show_icons=true&theme=transparent&hide_border=true" />
   </a>
 
-  <img src="https://streak-stats.demolab.com/?user=vishanthkannan&theme=github_dark&hide_border=true&cache_seconds=86400" alt="vishanthkannan's GitHub Streak" width="49%" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=vishanthkannan&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=vishanthkannan&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vishanthkannan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishanthkannan&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 <div align="center">
@@ -53,93 +59,113 @@
 
 ---
 
-## 🛠️ Languages & Tools
+# Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+## Programming Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python" />
+  <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" alt="Java" />
 </p>
 
-<h3 align="center">Frontend</h3>
+## Frontend
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" alt="React" />
+  <img width="12" />
 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="45" alt="Next.js" />
+  <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" alt="Tailwind CSS" />
+  <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="45" alt="Bootstrap" />
 </p>
 
-<h3 align="center">Backend</h3>
+## Backend
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+  <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="45" alt="Express.js" />
+  <img width="12" />
 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="45" alt="Django" />
+  <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" height="45" alt="Flask" />
 </p>
 
-<h3 align="center">Database</h3>
+## Database
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img width="12" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
+## DevOps & Cloud
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="45" alt="AWS" />
+  <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="45" alt="Google Cloud" />
+  <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="45" alt="Jenkins" />
 </p>
 
-<h3 align="center">Tools</h3>
+## Tools
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45" alt="Git" />
+  <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="45" alt="VS Code" />
+  <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" alt="Postman" />
+  <img width="12" />
 
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/vishanthkannan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishanthkannan&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" height="45" alt="Vite" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
+# Top Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishanthkannan&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishanthkannan/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" height="45" alt="LinkedIn" />
+  </a>
+
+  <img width="12" />
 
   <a href="mailto:vishanthkannan777@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" height="45" alt="Gmail" />
   </a>
 </p>
 
