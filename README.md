@@ -10,37 +10,49 @@
 <div align="center">
 
 <table width="100%">
-<tr border="none">
+<tr>
 
 <td width="50%" valign="top">
 
-```txt
-┌── About Me ─────────────────────────┐
-│                                     │
-│  • Full-Stack Developer             │
-│  • React, Node.js & MongoDB         │
-│  • AI & Smart Systems Enthusiast    │
-│  • Learning DSA, Java & Python      │
-│  • UI/UX & Creative Development     │
-│                                     │
-└─────────────────────────────────────┘
-```
+<h2 align="center">
+  <img src="https://img.shields.io/badge/About%20Me-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</h2>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Full--Stack%20Developer-111111?style=flat-square&logo=github&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/React%20•%20Node.js%20•%20MongoDB-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/><br><br>
+
+<img src="https://img.shields.io/badge/AI%20&%20Smart%20Systems-1F6FEB?style=flat-square&logo=openai&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/Learning%20DSA%20•%20Java%20•%20Python-FF6B00?style=flat-square&logo=java&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/UI/UX%20&%20Creative%20Development-E91E63?style=flat-square&logo=figma&logoColor=white"/>
+
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-```txt
-┌── Focus Areas ──────────────────────┐
-│                                     │
-│  • Full Stack Development           │
-│  • Modern Web Applications          │
-│  • Backend & Databases              │
-│  • Problem Solving & DSA            │
-│  • Real-World Project Building      │
-│                                     │
-└─────────────────────────────────────┘
-```
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Focus%20Areas-00C896?style=for-the-badge&logo=target&logoColor=white"/>
+</h2>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-111111?style=flat-square&logo=javascript&logoColor=F7DF1E"/><br><br>
+
+<img src="https://img.shields.io/badge/Modern%20Web%20Applications-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/><br><br>
+
+<img src="https://img.shields.io/badge/Backend%20&%20Databases-0064FF?style=flat-square&logo=mongodb&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/Problem%20Solving%20&%20DSA-FF9800?style=flat-square&logo=codeforces&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/Real--World%20Projects-8E44AD?style=flat-square&logo=github&logoColor=white"/>
+
+</p>
 
 </td>
 
@@ -48,7 +60,6 @@
 </table>
 
 </div>
-
 # GitHub Stats
 
 <p align="center">
