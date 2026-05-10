@@ -39,7 +39,9 @@
 # GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishanthkannan&show_icons=true&theme=transparent&hide_border=true" />
+    <a href="https://github.com/vishanthkannan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishanthkannan&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="vishanthkannan's GitHub Stats" />
+  </a>
 
   <img height="180em" src="https://streak-stats.demolab.com?user=vishanthkannan&theme=transparent&hide_border=true" />
 </p>
