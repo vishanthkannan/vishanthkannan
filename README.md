@@ -15,32 +15,47 @@
 <tr>
 <td width="50%" valign="top">
 
-## About Me
+<div align="center">
 
-- Full-Stack Developer  
-- React, Node.js & MongoDB  
-- AI & Smart Systems Enthusiast  
-- Learning DSA, Java & Python  
-- UI/UX & Creative Development  
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">About Me</h2>
+
+<p align="left">
+
+◉ Full-Stack Developer passionate about modern web technologies  
+◉ Building projects using React, Node.js & MongoDB  
+◉ Interested in AI, Smart Systems & Data Analysis  
+◉ Learning DSA, Java & Python  
+◉ Love UI/UX & Creative Development  
+
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## Focus Areas
+<h2 align="center">Focus Areas</h2>
 
-- Full Stack Development  
-- Modern Web Applications  
-- Backend & Databases  
-- Problem Solving & DSA  
-- Real-World Projects  
+<p align="left">
+
+◉ Full Stack Development  
+◉ Modern Web Applications  
+◉ Backend & Database Development  
+◉ Problem Solving & DSA  
+◉ Real-World Project Building  
+
+</p>
 
 </td>
+
 </tr>
 </table>
 
 </div>
----
 
 # GitHub Stats
 
