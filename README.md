@@ -6,6 +6,49 @@
   </a>
 </p>
 
+
+<div align="center">
+
+<table width="100%">
+<tr border="none">
+
+<td width="50%" valign="top">
+
+```txt
+┌── About Me ─────────────────────────┐
+│                                     │
+│  • Full-Stack Developer             │
+│  • React, Node.js & MongoDB         │
+│  • AI & Smart Systems Enthusiast    │
+│  • Learning DSA, Java & Python      │
+│  • UI/UX & Creative Development     │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+```txt
+┌── Focus Areas ──────────────────────┐
+│                                     │
+│  • Full Stack Development           │
+│  • Modern Web Applications          │
+│  • Backend & Databases              │
+│  • Problem Solving & DSA            │
+│  • Real-World Project Building      │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 # GitHub Stats
 
 <p align="center">
@@ -102,7 +145,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vishanthkannan/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
