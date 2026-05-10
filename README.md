@@ -10,30 +10,37 @@
 
 <div align="center">
 
-# About Me
-
-• Passionate Full-Stack Developer  
-• Building projects with React, Node.js & MongoDB  
-• Interested in AI, Data Analysis & Smart Systems  
-• Learning DSA, Java & Python  
-• Love UI Design & Creative Development  
-
-</div>
-
-<br>
-
 <div align="center">
 
-# Focus Areas
+<table>
+<tr>
+<td width="50%" valign="top">
 
-• Full Stack Development  
-• React & Modern Web Apps  
-• Backend Development  
-• MongoDB & Databases  
-• Problem Solving & DSA  
+## About Me
+
+- Full-Stack Developer  
+- React, Node.js & MongoDB  
+- AI & Smart Systems Enthusiast  
+- Learning DSA, Java & Python  
+- UI/UX & Creative Development  
+
+</td>
+
+<td width="50%" valign="top">
+
+## Focus Areas
+
+- Full Stack Development  
+- Modern Web Applications  
+- Backend & Databases  
+- Problem Solving & DSA  
+- Real-World Projects  
+
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 # GitHub Stats
