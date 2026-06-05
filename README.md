@@ -1,24 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Vishanthkannan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false" width="100%"/>
 
 
-# GitHub Stats
-
+## GitHub Stats & Trophies
 <p align="center">
-    <a href="https://github.com/vishanthkannan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishanthkannan&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="vishanthkannan's GitHub Stats" />
+  <a href="https://github.com/vishanthkannan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishanthkannan&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="vishanthkannan's GitHub Stats" />
   </a>
-
-  <img height="180em" src="https://streak-stats.demolab.com?user=vishanthkannan&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=vishanthkannan&theme=github_dark&hide_border=true&cache_seconds=86400" alt="vishanthkannan's GitHub Streak" width="49%" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishanthkannan&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://trophy.ryglcloud.net/?username=vishanthkannan&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vishanthkannan's GitHub Trophies" />
 </p>
-
-<div align="center">
-  <img src="profile-3d-city.svg" width="100%" />
-</div>
-
 ---
 
 # Languages & Tools
@@ -102,7 +94,7 @@
   <a href="https://www.linkedin.com/in/vishanthkannan/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://wa.me/9108838507312">
+  <a href="https://wa.me/918838507312">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:vishanthkannan777@gmail.com">
