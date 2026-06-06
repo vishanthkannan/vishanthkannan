@@ -11,7 +11,8 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=vishanthkannan&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vishanth K's GitHub Trophies" />
 </p>
----
+
+
 
 # Languages & Tools
 
