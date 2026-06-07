@@ -12,7 +12,11 @@
   <img src="https://trophy.ryglcloud.net/?username=vishanthkannan&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vishanth K's GitHub Trophies" />
 </p>
 
+<h2>My Contribution City</h2>
 
+<p align="center">
+  <img src="./profile-3d-city.svg" alt="3D Contribution City" width="100%">
+</p>
 
 # Languages & Tools
 
