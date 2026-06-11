@@ -8,9 +8,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=vishanthkannan&theme=monokai&hide_border=true&cache_seconds=86400" alt="vishanthkannan's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=vishanthkannan&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vishanth K's GitHub Trophies" />
-</p>
 
 <h2>My Contribution City</h2>
 
