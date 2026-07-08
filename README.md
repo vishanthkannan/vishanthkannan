@@ -6,7 +6,6 @@
   <a href="https://github.com/vishanthkannan">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishanthkannan&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="vishanthkannan's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=vishanthkannan&theme=monokai&hide_border=true&cache_seconds=86400" alt="vishanthkannan's GitHub Streak" width="49%" />
 </p>
 
 <h2>My Contribution City</h2>
